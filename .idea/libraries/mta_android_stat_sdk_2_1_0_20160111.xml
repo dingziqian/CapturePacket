@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mta-android-stat-sdk-2.1.0_20160111">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/mta-android-stat-sdk-2.1.0_20160111.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
